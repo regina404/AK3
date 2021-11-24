@@ -1,0 +1,3 @@
+-v or --version - current version  
+-h or --help - messages with program options  
+-l[,....] - list arguments  
